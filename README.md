@@ -4,7 +4,7 @@
 [![Github Build Status](https://github.com/gaius-qi/slidingwindow/workflows/Go/badge.svg?branch=main)](https://github.com/gaius-qi/slidingwindow/actions?query=workflow%3AGo+branch%3Amain)
 [![GoDoc](https://godoc.org/github.com/gaius-qi/slidingwindow?status.svg)](https://godoc.org/github.com/gaius-qi/slidingwindow)
 
-Sliding window implementation for Golang
+Sliding window implementation for Golang.
 
 ## Installation
 
